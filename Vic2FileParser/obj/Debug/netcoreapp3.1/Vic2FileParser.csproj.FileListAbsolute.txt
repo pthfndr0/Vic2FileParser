@@ -1,0 +1,13 @@
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\bin\Debug\netcoreapp3.1\Vic2FileParser.exe
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\bin\Debug\netcoreapp3.1\Vic2FileParser.deps.json
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\bin\Debug\netcoreapp3.1\Vic2FileParser.runtimeconfig.json
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\bin\Debug\netcoreapp3.1\Vic2FileParser.runtimeconfig.dev.json
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\bin\Debug\netcoreapp3.1\Vic2FileParser.dll
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\bin\Debug\netcoreapp3.1\Vic2FileParser.pdb
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.csprojAssemblyReference.cache
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.AssemblyInfoInputs.cache
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.AssemblyInfo.cs
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.csproj.CoreCompileInputs.cache
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.dll
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.pdb
+C:\Users\pthfnr\source\repos\Vic2FileParser\Vic2FileParser\obj\Debug\netcoreapp3.1\Vic2FileParser.genruntimeconfig.cache
